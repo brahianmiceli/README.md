@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jean Miceli</h1>
 <h3 align="center">A passionate Developer FullStack from Argentina</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+![Jean Miceli (8)](https://user-images.githubusercontent.com/92497107/158927641-c456961a-2f71-4794-a2bf-8716f766bed1.png)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/@jeanbmiceli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jeanbmiceli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeanbmiceli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeanbmiceli/" height="30" width="40" /></a>
 <a href="https://instagram.com/@jeanbmiceli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jeanbmiceli" height="30" width="40" /></a>
