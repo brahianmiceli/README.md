@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Miceli</h1>
-<h3 align="center">A passionate Developer FullStack from Argentina</h3>
+<h3 align="center">A passionate Developer Java from Argentina</h3>
 
-![Jean Miceli (9)](https://user-images.githubusercontent.com/92497107/158927777-68b068a0-932b-486b-a5e3-565062bfaccd.png)
+![Jean Miceli (9)]
 
 
 <h3 align="center">Connect with me:</h3>
