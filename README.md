@@ -97,7 +97,7 @@ En mi tiempo libre, me gusta seguir aprendiendo sobre las últimas tecnologías 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nv3fjomob7qb8m6vbbq3goksy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" /></div>    
 
 ## <div align="center"> Playlist para Desarrolladores </div>
-***<div align="center"> [Spotify](https://open.spotify.com/playlist/2p4VHspwWWMDyRjkp3tdit?si=3eb2eb4a6cf74c3c)</div>***
+***<div align="center" target="_blank"> [Spotify](https://open.spotify.com/playlist/2p4VHspwWWMDyRjkp3tdit?si=3eb2eb4a6cf74c3c)</div>***
 
 <br/>  
 
