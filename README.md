@@ -1,5 +1,4 @@
 ## <div align="center">Hey Hola 👋,  Soy Brahian Miceli </div>  
-### <div align="center"> Puedes contactarme en los siguientes enlaces: </div> 
 
 <div align="center">
 <a href="https://github.com/brahianmiceli" target="_blank">
