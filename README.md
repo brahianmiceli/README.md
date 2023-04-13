@@ -1,4 +1,4 @@
-## <div align="center">Hey Hola 👋,  Soy Brahian Miceli </div>  
+## <div align="center">Hey Hola 👋,  Soy Brahian Miceli. </div>  
 <br/>  
 <div align="center">
 <a href="https://github.com/brahianmiceli" target="_blank">
