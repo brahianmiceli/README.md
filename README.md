@@ -3,7 +3,7 @@
   
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>  
   
 
@@ -89,18 +89,15 @@
 
 <br/>  
 
+## <div align="center">GitHub Stats</div>  
 
-## <div align="center">Ultimo Post</div>    
-<!-- BLOG-POST-LIST:START -->  
-**<div align="center"> Ultimo video subido en Youtube </div>**  
-~~~
-https://www.youtube.com/watch?v=JEiU8tEseL0&t=4s
-~~~
-![Chat bot en java (5)](https://user-images.githubusercontent.com/92497107/231883300-0eb0908b-4ef6-4a3b-97ad-c44067db796f.png)
+  
 
-<!-- BLOG-POST-LIST:END -->  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahianmiceli&hide_border=true&layout=compact" align="center" style="width:80%" /></div>    
 
-<br/>  
+
+<br/> 
+ 
 
 ## <div align="center">Spotify</div>  
 
@@ -110,14 +107,7 @@ https://www.youtube.com/watch?v=JEiU8tEseL0&t=4s
 
  
 
-## <div align="center">GitHub Stats</div>  
-
-  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahianmiceli&hide_border=true&layout=compact" align="center" style="width:80%" /></div>    
-
-
-<br/>  
+ 
 
 ## <div align="center">Visitantes:</div>  
   
