@@ -74,7 +74,7 @@ En mi tiempo libre, me gusta seguir aprendiendo sobre las últimas tecnologías 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahianmiceli&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbmiceli&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -94,4 +94,4 @@ En mi tiempo libre, me gusta seguir aprendiendo sobre las últimas tecnologías 
 ## <div align="center">Visitantes</div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jeanbmiceli&&style=flat-square" align="center" />
-</div>  
+</div>   
