@@ -9,7 +9,6 @@
 </a>
 </div>  
 
-
 ## <div align="center">Presentación</div>    
 Desde que era joven, me ha encantado la programación y siempre he disfrutado explorando nuevas formas de construir soluciones creativas y tecnológicas. Me apasiona tanto el desarrollo Frontend como el Backend, y me encanta trabajar en proyectos que me permitan utilizar ambas habilidades. Tengo experiencia en la creación de interfaces de usuario intuitivas y atractivas, así como en la creación de sólidas estructuras de back-end que permitan que los sistemas funcionen sin problemas y de manera eficiente.
 
