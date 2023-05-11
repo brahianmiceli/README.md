@@ -7,10 +7,10 @@
 - ❓ Ask me about anything related to Java and related technologies.  
   
 
-- 👨‍💻  Read more about my projects at [Portfolio](https://jeanbmiceli.netlify.app/)
+- 👨‍💻 Read more about my projects at [Portfolio](https://jeanbmiceli.netlify.app/)
   
 
-- ⚡ Fun fact: I ❤️ League of Legend and 🐶  
+- ⚡ Fun fact: I ❤️ Gaming and 🐶  
   
 
 <br/>  
