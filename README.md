@@ -99,8 +99,3 @@
 <img src="https://komarev.com/ghpvc/?username=jeanbmiceli&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
