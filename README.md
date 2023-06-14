@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning Spring Boot and React.  
   
-
 - ❓ Ask me about anything related to Java and related technologies.  
   
 
