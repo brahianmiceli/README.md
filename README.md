@@ -1,4 +1,4 @@
-### I'm Jean, Backend Developer 👨‍💻 since 2021 🚀  
+### I'm Brahian, Backend Developer 👨‍💻 since 2021 🚀  
   
 
 - 🌱 I’m currently learning Spring Boot and React.  
@@ -6,7 +6,7 @@
 - ❓ Ask me about anything related to Java and related technologies.  
   
 
-- 👨‍💻 Read more about my projects at [Portfolio](https://jeanbmiceli.netlify.app/)
+- 👨‍💻 Read more about my projects at [Portfolio](https://brahianmiceli.netlify.app/)
   
 
 - ⚡ Fun fact: I ❤️ Gaming and 🐶  
@@ -88,6 +88,6 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jeanbmiceli&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=brahianmiceli&&style=flat-square" align="center" />
 </div>  
   
